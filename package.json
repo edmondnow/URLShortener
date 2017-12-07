@@ -1,0 +1,24 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "FCC URL Shortneer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmondnow/URLShortener.git"
+  },
+  "keywords": [
+    "FCC",
+    "url",
+    "shortener"
+  ],
+  "author": "Edmond Bitay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmondnow/URLShortener/issues"
+  },
+  "homepage": "https://github.com/edmondnow/URLShortener#readme"
+}
